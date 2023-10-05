@@ -9,36 +9,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=castroofelipee&bg_color=050505&color=6ea437&line=5ed71d&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=castroofelipee&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
-### Main skills:
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=purple&labelColor=0D1117)&nbsp; 
-
- ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Angular 15](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Zabbix](https://img.shields.io/badge/-Zabbix-0D1117?style=for-the-badge&logo=zabbix&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
 
   <div align="center">
